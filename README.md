@@ -10,7 +10,7 @@ A clean and modern recreation of the classic Flappy Bird game, built in Unity 2D
 - **Smooth gameplay** with physics-controlled bird movement  
 - **Procedurally spawned pipes** with randomized gaps  
 - **Real-time scoring** and responsive UI  
-- **Sound effects** for scoring, collisions, wing flaps, and game over events  
+- **Sound effects** for scoring, collisions, and game over events  
 - **Game Over screen** with Play Again and Quit buttons  
 - **Animated background** elements for depth and polish  
 
@@ -18,10 +18,9 @@ A clean and modern recreation of the classic Flappy Bird game, built in Unity 2D
 
 ## How to Play
 
-1. Press **Spacebar** or **Left Mouse Click** to flap.  
+1. Press **Spacebar** to flap.  
 2. Navigate through pipe gaps without touching them.  
-3. Earn 1 point for each cleared set of pipes.  
-4. Survive as long as possible to beat your high score.
+3. Earn 1 point for each cleared set of pipes. 
 
 ---
 
